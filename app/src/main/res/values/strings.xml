@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HOTROHOCTAP</string>
+    <string name="title_activity_course">CourseActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_social">SocialActivity</string>
+    <string name="google_maps_API_key">AIzaSyCVSeKOhs7wHeuDxJlF8nAHoxV20qxQNgU</string>
+    <string name="title_activity_sign_learn">SignLearnActivity</string>
+    <string name="title_activity_view_learn">ViewLearnActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="subject">
+        <item>Lập trình Android</item>
+        <item>Marketing</item>
+        <item>Lập trình web</item>
+        <item>Khách sạn</item>
+    </string>
+    <string name="facebook_app_id">2031062727184202</string> <string name="fb_login_protocol_scheme">fb2031062727184202</string>
+
+</resources>
